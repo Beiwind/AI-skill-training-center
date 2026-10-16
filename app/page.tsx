@@ -1,5 +1,5 @@
-import Portal from "./portal";
+import Home from "./home";
 
 export default function Page() {
-  return <Portal view="dashboard" />;
+  return <Home />;
 }
